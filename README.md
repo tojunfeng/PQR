@@ -1,6 +1,6 @@
 ### Step 1: Prepare Data  
 
-Download the required dataset from [https://github.com/beir-cellar/beir](https://github.com/beir-cellar/beir).  
+Download the required dataset
 
 ### Step 2: Generate Potential Queries  
 
