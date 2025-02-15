@@ -1,10 +1,4 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "3,4"
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ['OMP_NUM_THREADS'] = '2'
-os.environ['MKL_NUM_THREADS'] = '2'
-os.environ['OPENBLAS_NUM_THREADS'] = '2'
-os.environ['NUMEXPR_NUM_THREADS'] = '2'
 import torch
 import jsonlines
 import numpy as np
